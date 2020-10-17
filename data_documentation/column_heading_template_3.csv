@@ -1,0 +1,189 @@
+dev-category,NAME OF DATA ELEMENT,developer-friendly name,API data type,VARIABLE NAME,VALUE,LABEL
+academics,"Percentage of degrees awarded in Agriculture, Agriculture Operations, And Related Sciences.",program_percentage.agriculture,float,PCIP01,(blank),"Agriculture, Agriculture Operations, and Related Sciences"
+academics,Percentage of degrees awarded in Architecture And Related Services.,program_percentage.architecture,float,PCIP04,(blank),Architecture and Related Services
+academics,"Percentage of degrees awarded in Area, Ethnic, Cultural, Gender, And Group Studies.",program_percentage.ethnic_cultural_gender,float,PCIP05,(blank),"Area, Ethnic, Cultural, Gender, and Group Studies"
+academics,Percentage of degrees awarded in Biological And Biomedical Sciences.,program_percentage.biological,float,PCIP26,(blank),Biological and Biomedical Sciences
+academics,"Percentage of degrees awarded in Business, Management, Marketing, And Related Support Services.",program_percentage.business_marketing,float,PCIP52,(blank),"Business, Management, Marketing, and Related Support Services"
+academics,"Percentage of degrees awarded in Communication, Journalism, And Related Programs.",program_percentage.communication,float,PCIP09,(blank),"Communication, Journalism, and Related Programs"
+academics,Percentage of degrees awarded in Communications Technologies/Technicians And Support Services.,program_percentage.communications_technology,float,PCIP10,(blank),Communications Technologies/Technicians and Support Services
+academics,Percentage of degrees awarded in Computer And Information Sciences And Support Services.,program_percentage.computer,float,PCIP11,(blank),Computer and Information Sciences and Support Services
+academics,Percentage of degrees awarded in Construction Trades.,program_percentage.construction,float,PCIP46,(blank),Construction Trades
+academics,Percentage of degrees awarded in Education.,program_percentage.education,float,PCIP13,(blank),Education
+academics,Percentage of degrees awarded in Engineering Technologies And Engineering-Related Fields.,program_percentage.engineering_technology,float,PCIP15,(blank),Engineering Technologies and Engineering-Related Fields
+academics,Percentage of degrees awarded in Engineering.,program_percentage.engineering,float,PCIP14,(blank),Engineering
+academics,Percentage of degrees awarded in English Language And Literature/Letters.,program_percentage.english,float,PCIP23,(blank),English Language and Literature/Letters
+academics,Percentage of degrees awarded in Family And Consumer Sciences/Human Sciences.,program_percentage.family_consumer_science,float,PCIP19,(blank),Family and Consumer Sciences/Human Sciences
+academics,"Percentage of degrees awarded in Foreign Languages, Literatures, And Linguistics.",program_percentage.language,float,PCIP16,(blank),"Foreign Languages, Literatures, and Linguistics"
+academics,Percentage of degrees awarded in Health Professions And Related Programs.,program_percentage.health,float,PCIP51,(blank),Health Professions and Related Programs
+academics,Percentage of degrees awarded in History.,program_percentage.history,float,PCIP54,(blank),History
+academics,"Percentage of degrees awarded in Homeland Security, Law Enforcement, Firefighting And Related Protective Services.",program_percentage.security_law_enforcement,float,PCIP43,(blank),"Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+academics,Percentage of degrees awarded in Legal Professions And Studies.,program_percentage.legal,float,PCIP22,(blank),Legal Professions and Studies
+academics,"Percentage of degrees awarded in Liberal Arts And Sciences, General Studies And Humanities.",program_percentage.humanities,float,PCIP24,(blank),"Liberal Arts and Sciences, General Studies and Humanities"
+academics,Percentage of degrees awarded in Library Science.,program_percentage.library,float,PCIP25,(blank),Library Science
+academics,Percentage of degrees awarded in Mathematics And Statistics.,program_percentage.mathematics,float,PCIP27,(blank),Mathematics and Statistics
+academics,Percentage of degrees awarded in Mechanic And Repair Technologies/Technicians.,program_percentage.mechanic_repair_technology,float,PCIP47,(blank),Mechanic and Repair Technologies/Technicians
+academics,Percentage of degrees awarded in Military Technologies And Applied Sciences.,program_percentage.military,float,PCIP29,(blank),Military Technologies and Applied Sciences
+academics,Percentage of degrees awarded in Multi/Interdisciplinary Studies.,program_percentage.multidiscipline,float,PCIP30,(blank),Multi/Interdisciplinary Studies
+academics,Percentage of degrees awarded in Natural Resources And Conservation.,program_percentage.resources,float,PCIP03,(blank),Natural Resources and Conservation
+academics,"Percentage of degrees awarded in Parks, Recreation, Leisure, And Fitness Studies.",program_percentage.parks_recreation_fitness,float,PCIP31,(blank),"Parks, Recreation, Leisure, and Fitness Studies"
+academics,Percentage of degrees awarded in Personal And Culinary Services.,program_percentage.personal_culinary,float,PCIP12,(blank),Personal and Culinary Services
+academics,Percentage of degrees awarded in Philosophy And Religious Studies.,program_percentage.philosophy_religious,float,PCIP38,(blank),Philosophy and Religious Studies
+academics,Percentage of degrees awarded in Physical Sciences.,program_percentage.physical_science,float,PCIP40,(blank),Physical Sciences
+academics,Percentage of degrees awarded in Precision Production.,program_percentage.precision_production,float,PCIP48,(blank),Precision Production
+academics,Percentage of degrees awarded in Psychology.,program_percentage.psychology,float,PCIP42,(blank),Psychology
+academics,Percentage of degrees awarded in Public Administration And Social Service Professions.,program_percentage.public_administration_social_service,float,PCIP44,(blank),Public Administration and Social Service Professions
+academics,Percentage of degrees awarded in Science Technologies/Technicians.,program_percentage.science_technology,float,PCIP41,(blank),Science Technologies/Technicians
+academics,Percentage of degrees awarded in Social Sciences.,program_percentage.social_science,float,PCIP45,(blank),Social Sciences
+academics,Percentage of degrees awarded in Theology And Religious Vocations.,program_percentage.theology_religious_vocation,float,PCIP39,(blank),Theology and Religious Vocations
+academics,Percentage of degrees awarded in Transportation And Materials Moving.,program_percentage.transportation,float,PCIP49,(blank),Transportation and Materials Moving
+academics,Percentage of degrees awarded in Visual And Performing Arts.,program_percentage.visual_performing,float,PCIP50,(blank),Visual and Performing Arts
+admissions,Admission rate,admission_rate.overall,float,ADM_RATE,(blank),(blank)
+admissions,Admission rate for all campuses rolled up to the 6-digit OPE ID,admission_rate.by_ope_id,float,ADM_RATE_ALL,(blank),(blank)
+admissions,Average SAT equivalent score of students admitted,sat_scores.average.overall,float,SAT_AVG,(blank),(blank)
+admissions,Average SAT equivalent score of students admitted for all campuses rolled up to the 6-digit OPE ID,sat_scores.average.by_ope_id,float,SAT_AVG_ALL,(blank),(blank)
+admissions,Midpoint of SAT scores at the institution (critical reading),sat_scores.midpoint.critical_reading,float,SATVRMID,(blank),(blank)
+admissions,Midpoint of SAT scores at the institution (math),sat_scores.midpoint.math,float,SATMTMID,(blank),(blank)
+admissions,Midpoint of SAT scores at the institution (writing),sat_scores.midpoint.writing,float,SATWRMID,(blank),(blank)
+admissions,Midpoint of the ACT cumulative score,act_scores.midpoint.cumulative,float,ACTCMMID,(blank),(blank)
+admissions,Midpoint of the ACT English score,act_scores.midpoint.english,float,ACTENMID,(blank),(blank)
+admissions,Midpoint of the ACT math score,act_scores.midpoint.math,float,ACTMTMID,(blank),(blank)
+admissions,Midpoint of the ACT writing score,act_scores.midpoint.writing,float,ACTWRMID,(blank),(blank)
+aid,Cumulative loan debt at the 10th percentile,cumulative_debt.10th_percentile,integer,CUML_DEBT_P10,(blank),(blank)
+aid,Cumulative loan debt at the 25th percentile,cumulative_debt.25th_percentile,integer,CUML_DEBT_P25,(blank),(blank)
+aid,Cumulative loan debt at the 75th percentile,cumulative_debt.75th_percentile,integer,CUML_DEBT_P75,(blank),(blank)
+aid,Cumulative loan debt at the 90th percentile,cumulative_debt.90th_percentile,integer,CUML_DEBT_P90,(blank),(blank)
+aid,Median loan debt of completers in monthly payments (10-year amortization plan),median_debt.completers.monthly_payments,float,GRAD_DEBT_MDN10YR,(blank),(blank)
+aid,Number of students in the cumulative loan debt cohort,cumulative_debt.number,integer,CUML_DEBT_N,(blank),(blank)
+aid,Percent of all undergraduate students receiving a federal student loan,federal_loan_rate,float,PCTFLOAN,(blank),(blank)
+aid,Share of students who received a federal loan while in school,students_with_any_loan,float,LOAN_EVER,(blank),(blank)
+aid,The median debt for dependent students,median_debt.dependent_students,float,DEP_DEBT_MDN,(blank),(blank)
+aid,The median debt for female students,median_debt.female_students,float,FEMALE_DEBT_MDN,(blank),(blank)
+aid,The median debt for first-generation students,median_debt.first_generation_students,float,FIRSTGEN_DEBT_MDN,(blank),(blank)
+aid,The median debt for independent students,median_debt.independent_students,float,IND_DEBT_MDN,(blank),(blank)
+aid,The median debt for male students,median_debt.male_students,float,MALE_DEBT_MDN,(blank),(blank)
+aid,The median debt for not-first-generation students,median_debt.non_first_generation_students,float,NOTFIRSTGEN_DEBT_MDN,(blank),(blank)
+aid,The median debt for students who have completed,median_debt.completers.overall,float,GRAD_DEBT_MDN,(blank),(blank)
+aid,The median debt for students who have not completed,median_debt.noncompleters,float,WDRAW_DEBT_MDN,(blank),(blank)
+aid,"The median debt for students with family income $75,001+",median_debt.income.greater_than_75000,float,HI_INC_DEBT_MDN,(blank),(blank)
+aid,"The median debt for students with family income between $0-$30,000",median_debt.income.0_30000,float,LO_INC_DEBT_MDN,(blank),(blank)
+aid,"The median debt for students with family income between $30,001-$75,000",median_debt.income.30001_75000,float,MD_INC_DEBT_MDN,(blank),(blank)
+aid,The median original amount of the loan principal upon entering repayment,loan_principal,float,DEBT_MDN,(blank),(blank)
+aid,The number of students in the median debt cohort,median_debt.number.overall,integer,DEBT_N,(blank),(blank)
+aid,The number of students in the median debt completers cohort,median_debt.number.completers,integer,GRAD_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt dependent students cohort,median_debt.number.dependent_students,integer,DEP_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt female students cohort,median_debt.number.female_students,integer,FEMALE_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt first-generation students cohort,median_debt.number.first_generation_students,integer,FIRSTGEN_DEBT_N,(blank),(blank)
+aid,"The number of students in the median debt high-income (above $75,000 in nominal family income) students cohort",median_debt.number.income.greater_than_75000,integer,HI_INC_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt independent students cohort,median_debt.number.independent_students,integer,IND_DEBT_N,(blank),(blank)
+aid,"The number of students in the median debt low-income (less than or equal to $30,000 in nominal family income) students cohort",median_debt.number.income.0_30000,integer,LO_INC_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt male students cohort,median_debt.number.male_students,integer,MALE_DEBT_N,(blank),(blank)
+aid,"The number of students in the median debt middle-income (between $30,000 and $75,000 in nominal family income) students cohort",median_debt.number.income.30001_75000,integer,MD_INC_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt not-first-generation students cohort,median_debt.number.non_first_generation_students,integer,NOTFIRSTGEN_DEBT_N,(blank),(blank)
+aid,The number of students in the median debt withdrawn cohort,median_debt.number.noncompleters,integer,WDRAW_DEBT_N,(blank),(blank)
+completion,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion)",completion_rate_4yr_150nt,float,C150_4,(blank),(blank)
+completion,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion), pooled for two year rolling averages",completion_rate_4yr_150nt_pooled,float,C150_4_POOLED,(blank),(blank)
+completion,Percent of dependent students who completed within 6 years at original institution,title_iv.depend.completed_by.6yrs,float,DEP_COMP_ORIG_YR6_RT,(blank),(blank)
+completion,Percent withdrawn from original institution within 2 years,title_iv.withdrawn_by.2yrs,float,WDRAW_ORIG_YR2_RT,(blank),(blank)
+cost,Average cost of attendance (academic year institutions),attendance.academic_year,integer,COSTT4_A,(blank),(blank)
+cost,Average cost of attendance (program-year institutions),attendance.program_year,integer,COSTT4_P,(blank),(blank)
+cost,Average net price for the largest program at the institution for program-year institutions,avg_net_price.program_year,integer,NPT4_PROG,(blank),(blank)
+cost,"Average net price for the largest program at the institution for schools on ""other"" academic year calendars",avg_net_price.other_academic_year,integer,NPT4_OTHER,(blank),(blank)
+cost,Average net price for Title IV institutions (private for-profit and nonprofit institutions),avg_net_price.private,integer,NPT4_PRIV,(blank),(blank)
+cost,Average net price for Title IV institutions (public institutions),avg_net_price.public,integer,NPT4_PUB,(blank),(blank)
+cost,In-state tuition and fees,tuition.in_state,integer,TUITIONFEE_IN,(blank),(blank)
+cost,Out-of-state tuition and fees,tuition.out_of_state,integer,TUITIONFEE_OUT,(blank),(blank)
+cost,Tuition and fees for program-year institutions,tuition.program_year,integer,TUITIONFEE_PROG,(blank),(blank)
+cost,"Tuition, fees, books, and supply charges for largest program (full program)",program_reporter.program_1.cip_6_digit.full_program,integer,CIPTFBS1,(blank),(blank)
+earnings,Mean earnings of dependent students working and not enrolled 10 years after entry,10_yrs_after_entry.mean_earnings.dependent_students,integer,MN_EARN_WNE_INDEP0_P10,(blank),(blank)
+earnings,Mean earnings of dependent students working and not enrolled 6 years after entry,6_yrs_after_entry.mean_earnings.dependent_students,float,MN_EARN_WNE_INDEP0_P6,(blank),(blank)
+earnings,Mean earnings of female students working and not enrolled 10 years after entry,10_yrs_after_entry.mean_earnings.female_students,integer,MN_EARN_WNE_MALE0_P10,(blank),(blank)
+earnings,Mean earnings of female students working and not enrolled 6 years after entry,6_yrs_after_entry.mean_earnings.female_students,float,MN_EARN_WNE_MALE0_P6,(blank),(blank)
+earnings,Mean earnings of independent students working and not enrolled 10 years after entry,10_yrs_after_entry.mean_earnings.independent_students,integer,MN_EARN_WNE_INDEP1_P10,(blank),(blank)
+earnings,Mean earnings of independent students working and not enrolled 6 years after entry,6_yrs_after_entry.mean_earnings.independent_students,float,MN_EARN_WNE_INDEP1_P6,(blank),(blank)
+earnings,Mean earnings of male students working and not enrolled 10 years after entry,10_yrs_after_entry.mean_earnings.male_students,integer,MN_EARN_WNE_MALE1_P10,(blank),(blank)
+earnings,Mean earnings of male students working and not enrolled 6 years after entry,6_yrs_after_entry.mean_earnings.male_students,float,MN_EARN_WNE_MALE1_P6,(blank),(blank)
+earnings,Mean earnings of students working and not enrolled 10 years after entry,10_yrs_after_entry.working_not_enrolled.mean_earnings,integer,MN_EARN_WNE_P10,(blank),(blank)
+earnings,Mean earnings of students working and not enrolled 6 years after entry,6_yrs_after_entry.working_not_enrolled.mean_earnings,integer,MN_EARN_WNE_P6,(blank),(blank)
+earnings,Mean earnings of students working and not enrolled 7 years after entry,7_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P7,(blank),(blank)
+earnings,Mean earnings of students working and not enrolled 8 years after entry,8_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P8,(blank),(blank)
+earnings,Mean earnings of students working and not enrolled 9 years after entry,9_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P9,(blank),(blank)
+earnings,Median earnings of students working and not enrolled 10 years after entry,10_yrs_after_entry.median,integer,MD_EARN_WNE_P10,(blank),(blank)
+earnings,Median earnings of students working and not enrolled 6 years after entry,6_yrs_after_entry.median,integer,MD_EARN_WNE_P6,(blank),(blank)
+earnings,Median earnings of students working and not enrolled 8 years after entry,8_yrs_after_entry.median_earnings,float,MD_EARN_WNE_P8,(blank),(blank)
+root,6-digit OPE ID for institution,ope6_id,string,OPEID6,(blank),(blank)
+root,8-digit OPE ID for institution,ope8_id,string,OPEID,(blank),(blank)
+root,Latitude,location.lat,float,LATITUDE,(blank),(blank)
+root,Longitude,location.lon,float,LONGITUDE,(blank),(blank)
+root,Unit ID for institution,id,integer,UNITID,(blank),(blank)
+school,Average faculty salary,faculty_salary,integer,AVGFACSAL,(blank),(blank)
+school,City,city,autocomplete,CITY,(blank),(blank)
+school,Control of institution,ownership,integer,CONTROL,1,Public
+school,"Control of institution, per PEPS",ownership_peps,integer,SCHTYPE,1,Public            
+school,Degree of urbanization of institution,degree_urbanization,integer,LOCALE2,1,"Large City (a central city of a CMSA or MSA, with the city having a population greater than or equal to 250,000)"
+school,FIPS code for state,state_fips,integer,ST_FIPS,1,Alabama
+school,Flag for main campus,main_campus,integer,MAIN,0,Not main campus
+school,Flag for men-only college,men_only,integer,MENONLY,0,No
+school,Flag for women-only college,women_only,integer,WOMENONLY,0,No
+school,Institution name,name,autocomplete,INSTNM,(blank),(blank)
+school,Instructional expenditures per full-time equivalent student,instructional_expenditure_per_fte,integer,INEXPFTE,(blank),(blank)
+school,Level of institution,institutional_characteristics.level,integer,ICLEVEL,1,4-year
+school,Locale of institution,locale,integer,LOCALE,11,"City: Large (population of 250,000 or more)"
+school,Net tuition revenue per full-time equivalent student,tuition_revenue_per_fte,integer,TUITFTE,(blank),(blank)
+school,Number of branch campuses,branches,integer,NUMBRANCH,(blank),(blank)
+school,Proportion of faculty that is full-time,ft_faculty_rate,float,PFTFAC,(blank),(blank)
+school,Region (IPEDS),region_id,integer,REGION,0,U.S. Service Schools
+school,State postcode,state,string,STABBR,(blank),(blank)
+school,URL for institution's homepage,school_url,string,INSTURL,(blank),(blank)
+school,ZIP code,zip,string,ZIP,(blank),(blank)
+student,"Aided students with family incomes between $110,001+ in nominal dollars",share_highincome.110001plus,float,INC_PCT_H2,(blank),(blank)
+student,"Aided students with family incomes between $30,001-$48,000 in nominal dollars",share_middleincome.30001_48000,float,INC_PCT_M1,(blank),(blank)
+student,"Aided students with family incomes between $48,001-$75,000 in nominal dollars",share_middleincome.48001_75000,float,INC_PCT_M2,(blank),(blank)
+student,"Aided students with family incomes between $75,001-$110,000 in nominal dollars",share_highincome.75001_110000,float,INC_PCT_H1,(blank),(blank)
+student,Average age of entry,demographics.age_entry,integer,AGE_ENTRY,(blank),(blank)
+student,Average family income for independent students in real 2015 dollars,demographics.avg_family_income_independents,integer,FAMINC_IND,(blank),(blank)
+student,Average family income in real 2015 dollars,demographics.avg_family_income,integer,FAMINC,(blank),(blank)
+student,Average number of students who sent their FAFSA reports to at least one college,fafsa_sent.overall,integer,FSEND_COUNT,(blank),(blank)
+student,Average of the age of entry squared,demographics.age_entry_squared,integer,AGE_ENTRY_SQ,(blank),(blank)
+student,Average of the log of family income,demographics.avg_family_income_log,integer,LNFAMINC,(blank),(blank)
+student,Average of the log of family income for independent students,demographics.avg_family_income_independents_log,integer,LNFAMINC_IND,(blank),(blank)
+student,Enrollment of all undergraduate students,enrollment.all,integer,UG,(blank),(blank)
+student,Enrollment of undergraduate certificate/degree-seeking students,size,integer,UGDS,(blank),(blank)
+student,Median family income in real 2015 dollars,demographics.median_family_income,integer,MD_FAMINC,(blank),(blank)
+student,Median household income,demographics.median_hh_income,integer,MEDIAN_HH_INC,(blank),(blank)
+student,Percent of students over 23 at entry,demographics.over_23_at_entry,float,AGEGE24,(blank),(blank)
+student,"Percent of the population from students' zip codes over 25 with a professional degree, via Census data",demographics.share_professional_degree_age25.home_ZIP,float,PCT_GRAD_PROF,(blank),(blank)
+student,"Percent of the population from students' zip codes that is Asian, via Census data",demographics.share_asian.home_ZIP,float,PCT_ASIAN,(blank),(blank)
+student,"Percent of the population from students' zip codes that is Black, via Census data",demographics.share_black.home_ZIP,float,PCT_BLACK,(blank),(blank)
+student,"Percent of the population from students' zip codes that is Hispanic, via Census data",demographics.share_hispanic.home_ZIP,float,PCT_HISPANIC,(blank),(blank)
+student,"Percent of the population from students' zip codes that is White, via Census data",demographics.share_white.home_ZIP,float,PCT_WHITE,(blank),(blank)
+student,"Percent of the population from students' zip codes that was born in the US, via Census data",demographics.share_born_US.home_ZIP,float,PCT_BORN_US,(blank),(blank)
+student,"Percent of the population from students' zip codes with a bachelor's degree over the age 25, via Census data",demographics.share_bachelors_degree_age25.home_ZIP,float,PCT_BA,(blank),(blank)
+student,Percentage of undergraduates aged 25 and above,share_25_older,float,UG25ABV,(blank),(blank)
+student,"Poverty rate, via Census data",demographics.poverty_rate,float,POVERTY_RATE,(blank),(blank)
+student,Share of dependent students,demographics.dependent,float,DEPENDENT,(blank),(blank)
+student,Share of female students,demographics.female_share,float,FEMALE,(blank),(blank)
+student,Share of first-generation students,demographics.first_generation,float,FIRST_GEN,(blank),(blank)
+student,Share of married students,demographics.married,float,MARRIED,(blank),(blank)
+student,Share of veteran students,demographics.veteran,float,VETERAN,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are American Indian/Alaska Native,demographics.race_ethnicity.aian,float,UGDS_AIAN,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are American Indian/Alaska Native,demographics.race_ethnicity.aian_prior_2009,float,UGDS_AIANOLD,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are Asian,demographics.race_ethnicity.asian,float,UGDS_ASIAN,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are Asian/Pacific Islander,demographics.race_ethnicity.asian_pacific_islander,float,UGDS_API,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are black,demographics.race_ethnicity.black,float,UGDS_BLACK,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are black non-Hispanic,demographics.race_ethnicity.black_non_hispanic,float,UGDS_BLACKNH,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are Hispanic,demographics.race_ethnicity.hispanic,float,UGDS_HISP,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are Hispanic,demographics.race_ethnicity.hispanic_prior_2009,float,UGDS_HISPOLD,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are Native Hawaiian/Pacific Islander,demographics.race_ethnicity.nhpi,float,UGDS_NHPI,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are non-resident aliens,demographics.race_ethnicity.non_resident_alien,float,UGDS_NRA,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are two or more races,demographics.race_ethnicity.two_or_more,float,UGDS_2MOR,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are white,demographics.race_ethnicity.white,float,UGDS_WHITE,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students who are white non-Hispanic,demographics.race_ethnicity.white_non_hispanic,float,UGDS_WHITENH,(blank),(blank)
+student,Total share of enrollment of undergraduate degree-seeking students whose race is unknown,demographics.race_ethnicity.unknown,float,UGDS_UNKN,(blank),(blank)
+student,Total share of enrollment of undergraduate students who are American Indian/Alaska Native,demographics.race_ethnicity.aian_2000,float,UG_AIANOLD,(blank),(blank)
+student,Total share of enrollment of undergraduate students who are Asian/Pacific Islander,demographics.race_ethnicity.api_2000,float,UG_API,(blank),(blank)
+student,Total share of enrollment of undergraduate students who are black non-Hispanic,demographics.race_ethnicity.black_2000,float,UG_BLACKNH,(blank),(blank)
+student,Total share of enrollment of undergraduate students who are Hispanic,demographics.race_ethnicity.hispanic_2000,float,UG_HISPOLD,(blank),(blank)
+student,Total share of enrollment of undergraduate students who are non-resident aliens,demographics.non_resident_aliens_2000,float,UG_NRA,(blank),(blank)
+student,Total share of enrollment of undergraduate students who are white non-Hispanic,demographics.race_ethnicity.white_2000,float,UG_WHITENH,(blank),(blank)
+student,Total share of enrollment of undergraduate students whose race is unknown,demographics.race_ethnicity.unknown_2000,float,UG_UNKN,(blank),(blank)
+student,"Unemployment rate, via Census data",demographics.unemployment,float,UNEMP_RATE,(blank),(blank)

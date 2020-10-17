@@ -1,116 +1,116 @@
-dev-category,NAME OF DATA ELEMENT,developer-friendly name,API data type,VARIABLE NAME,VALUE,LABEL,SOURCE,NOTES
-academics,"Bachelor's degree in Agriculture, Agriculture Operations, And Related Sciences.",program.bachelors.agriculture,integer,CIP01BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Architecture And Related Services.,program.bachelors.architecture,integer,CIP04BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Area, Ethnic, Cultural, Gender, And Group Studies.",program.bachelors.ethnic_cultural_gender,integer,CIP05BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Biological And Biomedical Sciences.,program.bachelors.biological,integer,CIP26BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Business, Management, Marketing, And Related Support Services.",program.bachelors.business_marketing,integer,CIP52BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Communication, Journalism, And Related Programs.",program.bachelors.communication,integer,CIP09BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Communications Technologies/Technicians And Support Services.,program.bachelors.communications_technology,integer,CIP10BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Computer And Information Sciences And Support Services.,program.bachelors.computer,integer,CIP11BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Construction Trades.,program.bachelors.construction,integer,CIP46BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Education.,program.bachelors.education,integer,CIP13BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Engineering Technologies And Engineering-Related Fields.,program.bachelors.engineering_technology,integer,CIP15BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Engineering.,program.bachelors.engineering,integer,CIP14BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in English Language And Literature/Letters.,program.bachelors.english,integer,CIP23BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Family And Consumer Sciences/Human Sciences.,program.bachelors.family_consumer_science,integer,CIP19BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Foreign Languages, Literatures, And Linguistics.",program.bachelors.language,integer,CIP16BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Health Professions And Related Programs.,program.bachelors.health,integer,CIP51BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in History.,program.bachelors.history,integer,CIP54BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Homeland Security, Law Enforcement, Firefighting And Related Protective Services.",program.bachelors.security_law_enforcement,integer,CIP43BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Legal Professions And Studies.,program.bachelors.legal,integer,CIP22BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Liberal Arts And Sciences, General Studies And Humanities.",program.bachelors.humanities,integer,CIP24BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Library Science.,program.bachelors.library,integer,CIP25BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Mathematics And Statistics.,program.bachelors.mathematics,integer,CIP27BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Mechanic And Repair Technologies/Technicians.,program.bachelors.mechanic_repair_technology,integer,CIP47BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Military Technologies And Applied Sciences.,program.bachelors.military,integer,CIP29BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Multi/Interdisciplinary Studies.,program.bachelors.multidiscipline,integer,CIP30BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Natural Resources And Conservation.,program.bachelors.resources,integer,CIP03BACHL,(blank),(blank),IPEDS,ibid
-academics,"Bachelor's degree in Parks, Recreation, Leisure, And Fitness Studies.",program.bachelors.parks_recreation_fitness,integer,CIP31BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Personal And Culinary Services.,program.bachelors.personal_culinary,integer,CIP12BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Philosophy And Religious Studies.,program.bachelors.philosophy_religious,integer,CIP38BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Physical Sciences.,program.bachelors.physical_science,integer,CIP40BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Precision Production.,program.bachelors.precision_production,integer,CIP48BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Psychology.,program.bachelors.psychology,integer,CIP42BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Public Administration And Social Service Professions.,program.bachelors.public_administration_social_service,integer,CIP44BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Science Technologies/Technicians.,program.bachelors.science_technology,integer,CIP41BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Social Sciences.,program.bachelors.social_science,integer,CIP45BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Theology And Religious Vocations.,program.bachelors.theology_religious_vocation,integer,CIP39BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Transportation And Materials Moving.,program.bachelors.transportation,integer,CIP49BACHL,(blank),(blank),IPEDS,ibid
-academics,Bachelor's degree in Visual And Performing Arts.,program.bachelors.visual_performing,integer,CIP50BACHL,(blank),(blank),IPEDS,ibid
-academics,Number of programs offered,program_reporter.programs_offered,integer,PRGMOFR,(blank),(blank),IPEDS,(blank)
-admissions,Admission rate,admission_rate.overall,float,ADM_RATE,(blank),(blank),IPEDS,(blank)
-admissions,Admission rate for all campuses rolled up to the 6-digit OPE ID,admission_rate.by_ope_id,float,ADM_RATE_ALL,(blank),(blank),IPEDS,(blank)
-admissions,Midpoint of SAT scores at the institution (critical reading),sat_scores.midpoint.critical_reading,float,SATVRMID,(blank),(blank),IPEDS,Shown/used on consumer website.
-admissions,Midpoint of SAT scores at the institution (math),sat_scores.midpoint.math,float,SATMTMID,(blank),(blank),IPEDS,Shown/used on consumer website.
-admissions,Midpoint of SAT scores at the institution (writing),sat_scores.midpoint.writing,float,SATWRMID,(blank),(blank),IPEDS,(blank)
-admissions,Midpoint of the ACT cumulative score,act_scores.midpoint.cumulative,float,ACTCMMID,(blank),(blank),IPEDS,Shown/used on consumer website.
-admissions,Midpoint of the ACT English score,act_scores.midpoint.english,float,ACTENMID,(blank),(blank),IPEDS,(blank)
-admissions,Midpoint of the ACT math score,act_scores.midpoint.math,float,ACTMTMID,(blank),(blank),IPEDS,(blank)
-admissions,Midpoint of the ACT writing score,act_scores.midpoint.writing,float,ACTWRMID,(blank),(blank),IPEDS,(blank)
-aid,Cumulative loan debt at the 10th percentile,cumulative_debt.10th_percentile,integer,CUML_DEBT_P10,(blank),(blank),NSLDS,(blank)
-aid,Cumulative loan debt at the 25th percentile,cumulative_debt.25th_percentile,integer,CUML_DEBT_P25,(blank),(blank),NSLDS,(blank)
-aid,Cumulative loan debt at the 75th percentile,cumulative_debt.75th_percentile,integer,CUML_DEBT_P75,(blank),(blank),NSLDS,(blank)
-aid,Cumulative loan debt at the 90th percentile,cumulative_debt.90th_percentile,integer,CUML_DEBT_P90,(blank),(blank),NSLDS,(blank)
-aid,Number of students in the cumulative loan debt cohort,cumulative_debt.number,integer,CUML_DEBT_N,(blank),(blank),NSLDS,(blank)
-aid,Percent of all undergraduate students receiving a federal student loan,federal_loan_rate,float,PCTFLOAN,(blank),(blank),IPEDS,"The proportion of undergraduates who received a federal loan in the academic year, calculated from values from the IPEDS Student Financial Aid component. Proportions are expressed as decimals rounded to four decimal places, so, for example, 0.1234 equals 12.34 percent. This metric is not available prior to the 2009-10 academic year."
-aid,Share of students who received a federal loan while in school,students_with_any_loan,float,LOAN_EVER,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-aid,The median original amount of the loan principal upon entering repayment,loan_principal,float,DEBT_MDN,(blank),(blank),NSLDS,(blank)
-completion,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion)",completion_rate_4yr_150nt,float,C150_4,(blank),(blank),IPEDS,"The proportion of full-time, first-time, degree/certificate-seeking undergraduates who completed a degree or certificate at the institution within 150 percent of normal time, calculated from the IPEDS Graduation Rates component. Separate metrics are calculated for 4-year institutions and less-than-4-year institutions. This metric is calculated as the number of full-time, first-time, degree/certificate-seeking undergraduates who completed a degree or certificate divided by the number of full-time, first-time, degree/certificate-seeking undergraduates in the corresponding completion rate cohort (D150_4, D150_L4). For full-time, first-time, bachelor's degree-seeking undergraduates, 150 percent of normal time is typically 6 years, and for full-time, first-time, associate's degree-seeking undergraduates it is typically 3 years. For full-time, first-time, certificate-seeking undergraduates, the normal time period varies by the length of the program (for example, 9 months for a certificate with a normal completion time of 6 months). Proportions are expressed as decimals rounded to four decimal places, so, for example, 0.1234 equals 12.34 percent. Pooled figures include two cohorts of students."
-completion,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion), pooled for two year rolling averages",completion_rate_4yr_150nt_pooled,float,C150_4_POOLED,(blank),(blank),IPEDS,(blank)
-completion,Percent of dependent students who completed within 6 years at original institution,title_iv.depend.completed_by.6yrs,float,DEP_COMP_ORIG_YR6_RT,(blank),(blank),NSLDS,(blank)
-completion,Percent withdrawn from original institution within 2 years,title_iv.withdrawn_by.2yrs,float,WDRAW_ORIG_YR2_RT,(blank),(blank),NSLDS,(blank)
-cost,Average cost of attendance (academic year institutions),attendance.academic_year,integer,COSTT4_A,(blank),(blank),IPEDS,"The average annual total cost of attendance, including tuition and fees, books and supplies, and living expenses for all full-time, first-time, degree/certificate-seeking undergraduates who receive Title IV aid. It is calculated from values in the IPEDS Institutional Characteristics and Student Financial Aid components. Separate metrics are calculated for academic-year institutions and program-year institutions. For academic-year institutions, average cost of attendance represents an average of all programs and includes only full-time, first-time, degree/certificate-seeking undergraduates who first enrolled in the fall term. For non-academic-year institutions (program or continuous enrollment), average cost of attendance represents the program with the largest enrollment at the institution, and it includes full-time, first-time, degree/certificate-seeking undergraduates who first enrolled at any time during the academic year. For programs less than 1 year in length (see LProgram), this represents the cost for the full program."
-cost,Average cost of attendance (program-year institutions),attendance.program_year,integer,COSTT4_P,(blank),(blank),IPEDS,ibid
-cost,Average net price for Title IV institutions (public institutions),avg_net_price.public,integer,NPT4_PUB,(blank),(blank),IPEDS,"Shown/used on consumer website;    The average annual total cost of attendance (CostT4_A, CostT4_P), including tuition and fees, books and supplies, and living expenses, minus the average grant/scholarship aid. It is calculated for all full-time, first-time, degree/certificate-seeking undergraduates who receive Title IV aid. It is included in the IPEDS Student Financial Aid component. Separate metrics are calculated for public institutions and private institutions. For public institutions, this metric is limited to full-time, first-time, degree/certificate-seeking undergraduates who pay in-state tuition and receive Title IV aid. For private institutions, it includes all full-time, first-time, degree/certificate-seeking undergraduates who receive Title IV aid. The total cost of attendance depends on whether full-time, first-time, degree/certificate-seeking undergraduates live on campus, off campus (not with family), or off campus (with family). For academic-year institutions, net price represents an average of all programs and includes only full-time, first-time, degree/certificate-seeking undergraduates who first enrolled in the fall term. For non-academic-year institutions (program or continuous enrollment), net price represents the program with the largest enrollment at the institution and it includes full-time, first-time, degree/certificate-seeking undergraduates who first enrolled at any time during the academic year. For programs less than 1 year in length (see LProgram), this represents the net price for the full program. This metric is not available prior to the 2009-10 academic year."
-cost,In-state tuition and fees,tuition.in_state,integer,TUITIONFEE_IN,(blank),(blank),IPEDS,(blank)
-cost,Out-of-state tuition and fees,tuition.out_of_state,integer,TUITIONFEE_OUT,(blank),(blank),IPEDS,(blank)
-cost,Tuition and fees for program-year institutions,tuition.program_year,integer,TUITIONFEE_PROG,(blank),(blank),IPEDS,(blank)
-earnings,Mean earnings of students working and not enrolled 6 years after entry,6_yrs_after_entry.working_not_enrolled.mean_earnings,integer,MN_EARN_WNE_P6,(blank),(blank),Treasury,(blank)
-root,6-digit OPE ID for institution,ope6_id,string,OPEID6,(blank),(blank),IPEDS,Shown/used on consumer website.
-root,8-digit OPE ID for institution,ope8_id,string,OPEID,(blank),(blank),IPEDS,Shown/used on consumer website.
-root,Latitude,location.lat,float,LATITUDE,(blank),(blank),IPEDS,(blank)
-root,Longitude,location.lon,float,LONGITUDE,(blank),(blank),IPEDS,(blank)
-root,Unit ID for institution,id,integer,UNITID,(blank),(blank),IPEDS,Shown/used on consumer website.
-school,Average faculty salary,faculty_salary,integer,AVGFACSAL,(blank),(blank),IPEDS,"Average faculty salary per month, calculated from the IPEDS Human Resources component. This metric is calculated as the total salary outlays divided by the number of months worked for all full-time nonmedical instructional staff. Prior to the 2011-12 academic year, when months worked were reported in groups, the value for 9-10 months is estimated as 9.5 months and the value for 11-12 months is estimated as 11.5 months. Values prior to the 2003-04 academic year are limited to degree-granting institutions for consistency with values in subsequent academic years."
-school,Carnegie Classification -- basic,carnegie_basic,integer,CCBASIC,-2,Not applicable,IPEDS,(blank)
-school,Carnegie Classification -- undergraduate profile,carnegie_undergrad,integer,CCUGPROF,-2,Not applicable,IPEDS,(blank)
-school,City,city,autocomplete,CITY,(blank),(blank),IPEDS,Shown/used on consumer website.
-school,Control of institution,ownership,integer,CONTROL,1,Public,IPEDS,Shown/used on consumer website.
-school,Degree of urbanization of institution,degree_urbanization,integer,LOCALE2,1,"Large City (a central city of a CMSA or MSA, with the city having a population greater than or equal to 250,000)",IPEDS,(blank)
-school,FIPS code for state,state_fips,integer,ST_FIPS,1,Alabama,IPEDS,(blank)
-school,Flag for main campus,main_campus,integer,MAIN,0,Not main campus,IPEDS,(blank)
-school,Flag for men-only college,men_only,integer,MENONLY,0,No,IPEDS,Shown/used on consumer website.
-school,Flag for women-only college,women_only,integer,WOMENONLY,0,No,IPEDS,Shown/used on consumer website.
-school,Institution name,name,autocomplete,INSTNM,(blank),(blank),IPEDS,Shown/used on consumer website.
-school,Instructional expenditures per full-time equivalent student,instructional_expenditure_per_fte,integer,INEXPFTE,(blank),(blank),IPEDS,Instructional expenditures divided by the number of FTE students (undergraduates and graduate students) (http://nces.ed.gov/ipeds/glossary/index.asp?id=854). Instructional expenditures are included in the IPEDS Finance component and FTE enrollment is included in the IPEDS 12-Month Enrollment component. This metric includes graduate students.
-school,Locale of institution,locale,integer,LOCALE,11,"City: Large (population of 250,000 or more)",IPEDS,Shown/used on consumer website.
-school,Net tuition revenue per full-time equivalent student,tuition_revenue_per_fte,integer,TUITFTE,(blank),(blank),IPEDS,Net tuition revenue (tuition revenue minus discounts and allowances) divided by the number of FTE students (undergraduates and graduate students) (http://nces.ed.gov/ipeds/glossary/index.asp?id=854). Net tuition revenue is included in the IPEDS Finance component and FTE enrollment is included in the IPEDS 12-Month Enrollment component. This metric includes graduate students.
-school,Number of branch campuses,branches,integer,NUMBRANCH,(blank),(blank),IPEDS,(blank)
-school,Predominant degree awarded (recoded 0s and 4s),degrees_awarded.predominant_recoded,integer,SCH_DEG,(blank),(blank),IPEDS/NSLDS,"Missing values, 0s, and 4s from PREDDEG recoded according to NSLDS program length"
+dev-category,NAME OF DATA ELEMENT,developer-friendly name,API data type,VARIABLE NAME
+academics,"Bachelor's degree in Agriculture, Agriculture Operations, And Related Sciences.",program.bachelors.agriculture,integer,CIP01BACHL
+academics,Bachelor's degree in Architecture And Related Services.,program.bachelors.architecture,integer,CIP04BACHL
+academics,"Bachelor's degree in Area, Ethnic, Cultural, Gender, And Group Studies.",program.bachelors.ethnic_cultural_gender,integer,CIP05BACHL
+academics,Bachelor's degree in Biological And Biomedical Sciences.,program.bachelors.biological,integer,CIP26BACHL
+academics,"Bachelor's degree in Business, Management, Marketing, And Related Support Services.",program.bachelors.business_marketing,integer,CIP52BACHL
+academics,"Bachelor's degree in Communication, Journalism, And Related Programs.",program.bachelors.communication,integer,CIP09BACHL
+academics,Bachelor's degree in Communications Technologies/Technicians And Support Services.,program.bachelors.communications_technology,integer,CIP10BACHL
+academics,Bachelor's degree in Computer And Information Sciences And Support Services.,program.bachelors.computer,integer,CIP11BACHL
+academics,Bachelor's degree in Construction Trades.,program.bachelors.construction,integer,CIP46BACHL
+academics,Bachelor's degree in Education.,program.bachelors.education,integer,CIP13BACHL
+academics,Bachelor's degree in Engineering Technologies And Engineering-Related Fields.,program.bachelors.engineering_technology,integer,CIP15BACHL
+academics,Bachelor's degree in Engineering.,program.bachelors.engineering,integer,CIP14BACHL
+academics,Bachelor's degree in English Language And Literature/Letters.,program.bachelors.english,integer,CIP23BACHL
+academics,Bachelor's degree in Family And Consumer Sciences/Human Sciences.,program.bachelors.family_consumer_science,integer,CIP19BACHL
+academics,"Bachelor's degree in Foreign Languages, Literatures, And Linguistics.",program.bachelors.language,integer,CIP16BACHL
+academics,Bachelor's degree in Health Professions And Related Programs.,program.bachelors.health,integer,CIP51BACHL
+academics,Bachelor's degree in History.,program.bachelors.history,integer,CIP54BACHL
+academics,"Bachelor's degree in Homeland Security, Law Enforcement, Firefighting And Related Protective Services.",program.bachelors.security_law_enforcement,integer,CIP43BACHL
+academics,Bachelor's degree in Legal Professions And Studies.,program.bachelors.legal,integer,CIP22BACHL
+academics,"Bachelor's degree in Liberal Arts And Sciences, General Studies And Humanities.",program.bachelors.humanities,integer,CIP24BACHL
+academics,Bachelor's degree in Library Science.,program.bachelors.library,integer,CIP25BACHL
+academics,Bachelor's degree in Mathematics And Statistics.,program.bachelors.mathematics,integer,CIP27BACHL
+academics,Bachelor's degree in Mechanic And Repair Technologies/Technicians.,program.bachelors.mechanic_repair_technology,integer,CIP47BACHL
+academics,Bachelor's degree in Military Technologies And Applied Sciences.,program.bachelors.military,integer,CIP29BACHL
+academics,Bachelor's degree in Multi/Interdisciplinary Studies.,program.bachelors.multidiscipline,integer,CIP30BACHL
+academics,Bachelor's degree in Natural Resources And Conservation.,program.bachelors.resources,integer,CIP03BACHL
+academics,"Bachelor's degree in Parks, Recreation, Leisure, And Fitness Studies.",program.bachelors.parks_recreation_fitness,integer,CIP31BACHL
+academics,Bachelor's degree in Personal And Culinary Services.,program.bachelors.personal_culinary,integer,CIP12BACHL
+academics,Bachelor's degree in Philosophy And Religious Studies.,program.bachelors.philosophy_religious,integer,CIP38BACHL
+academics,Bachelor's degree in Physical Sciences.,program.bachelors.physical_science,integer,CIP40BACHL
+academics,Bachelor's degree in Precision Production.,program.bachelors.precision_production,integer,CIP48BACHL
+academics,Bachelor's degree in Psychology.,program.bachelors.psychology,integer,CIP42BACHL
+academics,Bachelor's degree in Public Administration And Social Service Professions.,program.bachelors.public_administration_social_service,integer,CIP44BACHL
+academics,Bachelor's degree in Science Technologies/Technicians.,program.bachelors.science_technology,integer,CIP41BACHL
+academics,Bachelor's degree in Social Sciences.,program.bachelors.social_science,integer,CIP45BACHL
+academics,Bachelor's degree in Theology And Religious Vocations.,program.bachelors.theology_religious_vocation,integer,CIP39BACHL
+academics,Bachelor's degree in Transportation And Materials Moving.,program.bachelors.transportation,integer,CIP49BACHL
+academics,Bachelor's degree in Visual And Performing Arts.,program.bachelors.visual_performing,integer,CIP50BACHL
+academics,Number of programs offered,program_reporter.programs_offered,integer,PRGMOFR
+admissions,Admission rate,admission_rate.overall,float,ADM_RATE
+admissions,Admission rate for all campuses rolled up to the 6-digit OPE ID,admission_rate.by_ope_id,float,ADM_RATE_ALL
+admissions,Midpoint of SAT scores at the institution (critical reading),sat_scores.midpoint.critical_reading,float,SATVRMID
+admissions,Midpoint of SAT scores at the institution (math),sat_scores.midpoint.math,float,SATMTMID
+admissions,Midpoint of SAT scores at the institution (writing),sat_scores.midpoint.writing,float,SATWRMID
+admissions,Midpoint of the ACT cumulative score,act_scores.midpoint.cumulative,float,ACTCMMID
+admissions,Midpoint of the ACT English score,act_scores.midpoint.english,float,ACTENMID
+admissions,Midpoint of the ACT math score,act_scores.midpoint.math,float,ACTMTMID
+admissions,Midpoint of the ACT writing score,act_scores.midpoint.writing,float,ACTWRMID
+aid,Cumulative loan debt at the 10th percentile,cumulative_debt.10th_percentile,integer,CUML_DEBT_P10
+aid,Cumulative loan debt at the 25th percentile,cumulative_debt.25th_percentile,integer,CUML_DEBT_P25
+aid,Cumulative loan debt at the 75th percentile,cumulative_debt.75th_percentile,integer,CUML_DEBT_P75
+aid,Cumulative loan debt at the 90th percentile,cumulative_debt.90th_percentile,integer,CUML_DEBT_P90
+aid,Number of students in the cumulative loan debt cohort,cumulative_debt.number,integer,CUML_DEBT_N
+aid,Percent of all undergraduate students receiving a federal student loan,federal_loan_rate,float,PCTFLOAN
+aid,Share of students who received a federal loan while in school,students_with_any_loan,float,LOAN_EVER
+aid,The median original amount of the loan principal upon entering repayment,loan_principal,float,DEBT_MDN
+completion,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion)",completion_rate_4yr_150nt,float,C150_4
+completion,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion), pooled for two year rolling averages",completion_rate_4yr_150nt_pooled,float,C150_4_POOLED
+completion,Percent of dependent students who completed within 6 years at original institution,title_iv.depend.completed_by.6yrs,float,DEP_COMP_ORIG_YR6_RT
+completion,Percent withdrawn from original institution within 2 years,title_iv.withdrawn_by.2yrs,float,WDRAW_ORIG_YR2_RT
+cost,Average cost of attendance (academic year institutions),attendance.academic_year,integer,COSTT4_A
+cost,Average cost of attendance (program-year institutions),attendance.program_year,integer,COSTT4_P
+cost,Average net price for Title IV institutions (public institutions),avg_net_price.public,integer,NPT4_PUB
+cost,In-state tuition and fees,tuition.in_state,integer,TUITIONFEE_IN
+cost,Out-of-state tuition and fees,tuition.out_of_state,integer,TUITIONFEE_OUT
+cost,Tuition and fees for program-year institutions,tuition.program_year,integer,TUITIONFEE_PROG
+earnings,Mean earnings of students working and not enrolled 6 years after entry,6_yrs_after_entry.working_not_enrolled.mean_earnings,integer,MN_EARN_WNE_P6
+root,6-digit OPE ID for institution,ope6_id,string,OPEID6
+root,8-digit OPE ID for institution,ope8_id,string,OPEID
+root,Latitude,location.lat,float,LATITUDE
+root,Longitude,location.lon,float,LONGITUDE
+root,Unit ID for institution,id,integer,UNITID
+school,Average faculty salary,faculty_salary,integer,AVGFACSAL
+school,Carnegie Classification -- basic,carnegie_basic,integer,CCBASIC
+school,Carnegie Classification -- undergraduate profile,carnegie_undergrad,integer,CCUGPROF
+school,City,city,autocomplete,CITY
+school,Control of institution,ownership,integer,CONTROL
+school,Degree of urbanization of institution,degree_urbanization,integer,LOCALE2
+school,FIPS code for state,state_fips,integer,ST_FIPS
+school,Flag for main campus,main_campus,integer,MAIN
+school,Flag for men-only college,men_only,integer,MENONLY
+school,Flag for women-only college,women_only,integer,WOMENONLY
+school,Institution name,name,autocomplete,INSTNM
+school,Instructional expenditures per full-time equivalent student,instructional_expenditure_per_fte,integer,INEXPFTE
+school,Locale of institution,locale,integer,LOCALE
+school,Net tuition revenue per full-time equivalent student,tuition_revenue_per_fte,integer,TUITFTE
+school,Number of branch campuses,branches,integer,NUMBRANCH
+school,Predominant degree awarded (recoded 0s and 4s),degrees_awarded.predominant_recoded,integer,SCH_DEG
 school,"Predominant undergraduate degree awarded
  0 Not classified
  1 Predominantly certificate-degree granting
  2 Predominantly associate's-degree granting
  3 Predominantly bachelor's-degree granting
- 4 Entirely graduate-degree granting",degrees_awarded.predominant,integer,PREDDEG,0,Not classified,IPEDS,Shown/used on consumer website.
-school,Proportion of faculty that is full-time,ft_faculty_rate,float,PFTFAC,(blank),(blank),IPEDS,"Proportion of faculty that are employed full time, calculated from the IPEDS Human Resources component. This metric is calculated as the number of full-time nonmedical faculty divided by the total number of nonmedical faculty. Proportions are expressed as decimals rounded to four decimal places, so, for example, 0.1234 equals 12.34 percent."
-school,Region (IPEDS),region_id,integer,REGION,0,U.S. Service Schools,IPEDS,(blank)
-school,State postcode,state,string,STABBR,(blank),(blank),IPEDS,Shown/used on consumer website.
-school,URL for institution's homepage,school_url,string,INSTURL,(blank),(blank),IPEDS,Shown/used on consumer website.
-school,ZIP code,zip,string,ZIP,(blank),(blank),IPEDS,(blank)
-student,Average age of entry,demographics.age_entry,integer,AGE_ENTRY,(blank),(blank),Treasury,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Average family income for independent students in real 2015 dollars,demographics.avg_family_income_independents,integer,FAMINC_IND,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Average family income in real 2015 dollars,demographics.avg_family_income,integer,FAMINC,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Average of the age of entry squared,demographics.age_entry_squared,integer,AGE_ENTRY_SQ,(blank),(blank),Treasury,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Average of the log of family income,demographics.avg_family_income_log,integer,LNFAMINC,(blank),(blank),Treasury,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Average of the log of family income for independent students,demographics.avg_family_income_independents_log,integer,LNFAMINC_IND,(blank),(blank),Treasury,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Median family income in real 2015 dollars,demographics.median_family_income,integer,MD_FAMINC,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Median household income,demographics.median_hh_income,integer,MEDIAN_HH_INC,(blank),(blank),Treasury,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Percent of students over 23 at entry,demographics.over_23_at_entry,float,AGEGE24,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Percentage of undergraduates aged 25 and above,share_25_older,float,UG25ABV,(blank),(blank),IPEDS,The proportion of undergraduates who are aged 25 or older
-student,Share of dependent students,demographics.dependent,float,DEPENDENT,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Share of female students,demographics.female_share,float,FEMALE,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Share of first-generation students,demographics.first_generation,float,FIRST_GEN,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Share of married students,demographics.married,float,MARRIED,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Share of students who received a Pell Grant while in school,students_with_pell_grant,float,PELL_EVER,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
-student,Share of veteran students,demographics.veteran,float,VETERAN,(blank),(blank),NSLDS,Data element describes the earnings cohort (without exclusions for military and in-school deferments in the measurement year)
+ 4 Entirely graduate-degree granting",degrees_awarded.predominant,integer,PREDDEG
+school,Proportion of faculty that is full-time,ft_faculty_rate,float,PFTFAC
+school,Region (IPEDS),region_id,integer,REGION
+school,State postcode,state,string,STABBR
+school,URL for institution's homepage,school_url,string,INSTURL
+school,ZIP code,zip,string,ZIP
+student,Average age of entry,demographics.age_entry,integer,AGE_ENTRY
+student,Average family income for independent students in real 2015 dollars,demographics.avg_family_income_independents,integer,FAMINC_IND
+student,Average family income in real 2015 dollars,demographics.avg_family_income,integer,FAMINC
+student,Average of the age of entry squared,demographics.age_entry_squared,integer,AGE_ENTRY_SQ
+student,Average of the log of family income,demographics.avg_family_income_log,integer,LNFAMINC
+student,Average of the log of family income for independent students,demographics.avg_family_income_independents_log,integer,LNFAMINC_IND
+student,Median family income in real 2015 dollars,demographics.median_family_income,integer,MD_FAMINC
+student,Median household income,demographics.median_hh_income,integer,MEDIAN_HH_INC
+student,Percent of students over 23 at entry,demographics.over_23_at_entry,float,AGEGE24
+student,Percentage of undergraduates aged 25 and above,share_25_older,float,UG25ABV
+student,Share of dependent students,demographics.dependent,float,DEPENDENT
+student,Share of female students,demographics.female_share,float,FEMALE
+student,Share of first-generation students,demographics.first_generation,float,FIRST_GEN
+student,Share of married students,demographics.married,float,MARRIED
+student,Share of students who received a Pell Grant while in school,students_with_pell_grant,float,PELL_EVER
+student,Share of veteran students,demographics.veteran,float,VETERAN
