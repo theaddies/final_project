@@ -1,10 +1,4 @@
 dev-category,NAME OF DATA ELEMENT,developer-friendly name,API data type,VARIABLE NAME
-academics,Average number of months needed to complete largest program,program_reporter.program_1.cip_6_digit.avg_month_completion,integer,MTHCMP1
-academics,Average number of months needed to complete program #2,program_reporter.program_2.cip_6_digit.avg_month_completion,integer,MTHCMP2
-academics,Average number of months needed to complete program #3,program_reporter.program_3.cip_6_digit.avg_month_completion,integer,MTHCMP3
-academics,Average number of months needed to complete program #4,program_reporter.program_4.cip_6_digit.avg_month_completion,integer,MTHCMP4
-academics,Average number of months needed to complete program #5,program_reporter.program_5.cip_6_digit.avg_month_completion,integer,MTHCMP5
-academics,Average number of months needed to complete program #6,program_reporter.program_6.cip_6_digit.avg_month_completion,integer,MTHCMP6
 academics,"Bachelor's degree in Agriculture, Agriculture Operations, And Related Sciences.",program.bachelors.agriculture,integer,CIP01BACHL
 academics,Bachelor's degree in Architecture And Related Services.,program.bachelors.architecture,integer,CIP04BACHL
 academics,"Bachelor's degree in Area, Ethnic, Cultural, Gender, And Group Studies.",program.bachelors.ethnic_cultural_gender,integer,CIP05BACHL
@@ -43,18 +37,6 @@ academics,Bachelor's degree in Social Sciences.,program.bachelors.social_science
 academics,Bachelor's degree in Theology And Religious Vocations.,program.bachelors.theology_religious_vocation,integer,CIP39BACHL
 academics,Bachelor's degree in Transportation And Materials Moving.,program.bachelors.transportation,integer,CIP49BACHL
 academics,Bachelor's degree in Visual And Performing Arts.,program.bachelors.visual_performing,integer,CIP50BACHL
-academics,CIP code of largest program,program_reporter.program_1.cip_6_digit.code,string,CIPCODE1
-academics,CIP code of program #2,program_reporter.program_2.cip_6_digit.code,string,CIPCODE2
-academics,CIP code of program #3,program_reporter.program_3.cip_6_digit.code,string,CIPCODE3
-academics,CIP code of program #4,program_reporter.program_4.cip_6_digit.code,string,CIPCODE4
-academics,CIP code of program #5,program_reporter.program_5.cip_6_digit.code,string,CIPCODE5
-academics,CIP code of program #6,program_reporter.program_6.cip_6_digit.code,string,CIPCODE6
-academics,CIP text description of largest program,program_reporter.program_1.cip_6_digit.title,string,CIPTITLE1
-academics,CIP text description of program #2,program_reporter.program_2.cip_6_digit.title,string,CIPTITLE2
-academics,CIP text description of program #3,program_reporter.program_3.cip_6_digit.title,string,CIPTITLE3
-academics,CIP text description of program #4,program_reporter.program_4.cip_6_digit.title,string,CIPTITLE4
-academics,CIP text description of program #5,program_reporter.program_5.cip_6_digit.title,string,CIPTITLE5
-academics,CIP text description of program #6,program_reporter.program_6.cip_6_digit.title,string,CIPTITLE6
 academics,Number of programs offered,program_reporter.programs_offered,integer,PRGMOFR
 academics,"Percentage of degrees awarded in Agriculture, Agriculture Operations, And Related Sciences.",program_percentage.agriculture,float,PCIP01
 academics,Percentage of degrees awarded in Architecture And Related Services.,program_percentage.architecture,float,PCIP04
