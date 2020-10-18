@@ -1,0 +1,44 @@
+dev-category,NAME OF DATA ELEMENT,developer-friendly name,API data type,VARIABLE NAME
+academics,"Percentage of degrees awarded in Agriculture, Agriculture Operations, And Related Sciences.",program_percentage.agriculture,float,PCIP01
+academics,Percentage of degrees awarded in Architecture And Related Services.,program_percentage.architecture,float,PCIP04
+academics,"Percentage of degrees awarded in Area, Ethnic, Cultural, Gender, And Group Studies.",program_percentage.ethnic_cultural_gender,float,PCIP05
+academics,Percentage of degrees awarded in Biological And Biomedical Sciences.,program_percentage.biological,float,PCIP26
+academics,"Percentage of degrees awarded in Business, Management, Marketing, And Related Support Services.",program_percentage.business_marketing,float,PCIP52
+academics,"Percentage of degrees awarded in Communication, Journalism, And Related Programs.",program_percentage.communication,float,PCIP09
+academics,Percentage of degrees awarded in Communications Technologies/Technicians And Support Services.,program_percentage.communications_technology,float,PCIP10
+academics,Percentage of degrees awarded in Computer And Information Sciences And Support Services.,program_percentage.computer,float,PCIP11
+academics,Percentage of degrees awarded in Construction Trades.,program_percentage.construction,float,PCIP46
+academics,Percentage of degrees awarded in Education.,program_percentage.education,float,PCIP13
+academics,Percentage of degrees awarded in Engineering Technologies And Engineering-Related Fields.,program_percentage.engineering_technology,float,PCIP15
+academics,Percentage of degrees awarded in Engineering.,program_percentage.engineering,float,PCIP14
+academics,Percentage of degrees awarded in English Language And Literature/Letters.,program_percentage.english,float,PCIP23
+academics,Percentage of degrees awarded in Family And Consumer Sciences/Human Sciences.,program_percentage.family_consumer_science,float,PCIP19
+academics,"Percentage of degrees awarded in Foreign Languages, Literatures, And Linguistics.",program_percentage.language,float,PCIP16
+academics,Percentage of degrees awarded in Health Professions And Related Programs.,program_percentage.health,float,PCIP51
+academics,Percentage of degrees awarded in History.,program_percentage.history,float,PCIP54
+academics,"Percentage of degrees awarded in Homeland Security, Law Enforcement, Firefighting And Related Protective Services.",program_percentage.security_law_enforcement,float,PCIP43
+academics,Percentage of degrees awarded in Legal Professions And Studies.,program_percentage.legal,float,PCIP22
+academics,"Percentage of degrees awarded in Liberal Arts And Sciences, General Studies And Humanities.",program_percentage.humanities,float,PCIP24
+academics,Percentage of degrees awarded in Library Science.,program_percentage.library,float,PCIP25
+academics,Percentage of degrees awarded in Mathematics And Statistics.,program_percentage.mathematics,float,PCIP27
+academics,Percentage of degrees awarded in Mechanic And Repair Technologies/Technicians.,program_percentage.mechanic_repair_technology,float,PCIP47
+academics,Percentage of degrees awarded in Military Technologies And Applied Sciences.,program_percentage.military,float,PCIP29
+academics,Percentage of degrees awarded in Multi/Interdisciplinary Studies.,program_percentage.multidiscipline,float,PCIP30
+academics,Percentage of degrees awarded in Natural Resources And Conservation.,program_percentage.resources,float,PCIP03
+academics,"Percentage of degrees awarded in Parks, Recreation, Leisure, And Fitness Studies.",program_percentage.parks_recreation_fitness,float,PCIP31
+academics,Percentage of degrees awarded in Personal And Culinary Services.,program_percentage.personal_culinary,float,PCIP12
+academics,Percentage of degrees awarded in Philosophy And Religious Studies.,program_percentage.philosophy_religious,float,PCIP38
+academics,Percentage of degrees awarded in Physical Sciences.,program_percentage.physical_science,float,PCIP40
+academics,Percentage of degrees awarded in Precision Production.,program_percentage.precision_production,float,PCIP48
+academics,Percentage of degrees awarded in Psychology.,program_percentage.psychology,float,PCIP42
+academics,Percentage of degrees awarded in Public Administration And Social Service Professions.,program_percentage.public_administration_social_service,float,PCIP44
+academics,Percentage of degrees awarded in Science Technologies/Technicians.,program_percentage.science_technology,float,PCIP41
+academics,Percentage of degrees awarded in Social Sciences.,program_percentage.social_science,float,PCIP45
+academics,Percentage of degrees awarded in Theology And Religious Vocations.,program_percentage.theology_religious_vocation,float,PCIP39
+academics,Percentage of degrees awarded in Transportation And Materials Moving.,program_percentage.transportation,float,PCIP49
+academics,Percentage of degrees awarded in Visual And Performing Arts.,program_percentage.visual_performing,float,PCIP50
+Mean earnings of students working and not enrolled 6 years after entry,earnings,6_yrs_after_entry.working_not_enrolled.mean_earnings,integer,MN_EARN_WNE_P6
+Mean earnings of students working and not enrolled 7 years after entry,earnings,7_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P7
+Mean earnings of students working and not enrolled 8 years after entry,earnings,8_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P8
+Mean earnings of students working and not enrolled 9 years after entry,earnings,9_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P9
+Mean earnings of students working and not enrolled 10 years after entry,earnings,10_yrs_after_entry.working_not_enrolled.mean_earnings,integer,MN_EARN_WNE_P10
