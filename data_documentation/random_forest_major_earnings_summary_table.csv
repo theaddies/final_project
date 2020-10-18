@@ -1,0 +1,43 @@
+,VARIABLE NAME,importance,developer-friendly-name,NAME OF DATA ELEMENT,dev-category
+0,PCIP51,0.1786459798380558,program_percentage.health,"15    Percentage of degrees awarded in Health Profes...
+Name: NAME OF DATA ELEMENT, dtype: object","15    academics
+Name: dev-category, dtype: object"
+1,PCIP14,0.17029302570006444,program_percentage.engineering,"11    Percentage of degrees awarded in Engineering.
+Name: NAME OF DATA ELEMENT, dtype: object","11    academics
+Name: dev-category, dtype: object"
+2,PCIP45,0.12771311493923154,program_percentage.social_science,"34    Percentage of degrees awarded in Social Sciences.
+Name: NAME OF DATA ELEMENT, dtype: object","34    academics
+Name: dev-category, dtype: object"
+3,PCIP27,0.07097775320778657,program_percentage.mathematics,"21    Percentage of degrees awarded in Mathematics A...
+Name: NAME OF DATA ELEMENT, dtype: object","21    academics
+Name: dev-category, dtype: object"
+4,PCIP13,0.06984872146568459,program_percentage.education,"9    Percentage of degrees awarded in Education.
+Name: NAME OF DATA ELEMENT, dtype: object","9    academics
+Name: dev-category, dtype: object"
+5,PCIP42,0.06872648994331707,program_percentage.psychology,"31    Percentage of degrees awarded in Psychology.
+Name: NAME OF DATA ELEMENT, dtype: object","31    academics
+Name: dev-category, dtype: object"
+6,PCIP50,0.06472324330637169,program_percentage.visual_performing,"37    Percentage of degrees awarded in Visual And Pe...
+Name: NAME OF DATA ELEMENT, dtype: object","37    academics
+Name: dev-category, dtype: object"
+7,PCIP24,0.059791161696225795,program_percentage.humanities,"19    Percentage of degrees awarded in Liberal Arts ...
+Name: NAME OF DATA ELEMENT, dtype: object","19    academics
+Name: dev-category, dtype: object"
+8,PCIP38,0.050786318377714884,program_percentage.philosophy_religious,"28    Percentage of degrees awarded in Philosophy An...
+Name: NAME OF DATA ELEMENT, dtype: object","28    academics
+Name: dev-category, dtype: object"
+9,PCIP16,0.03598934193280896,program_percentage.language,"14    Percentage of degrees awarded in Foreign Langu...
+Name: NAME OF DATA ELEMENT, dtype: object","14    academics
+Name: dev-category, dtype: object"
+10,PCIP39,0.03463220561003709,program_percentage.theology_religious_vocation,"35    Percentage of degrees awarded in Theology And ...
+Name: NAME OF DATA ELEMENT, dtype: object","35    academics
+Name: dev-category, dtype: object"
+11,PCIP05,0.028773180725967983,program_percentage.ethnic_cultural_gender,"2    Percentage of degrees awarded in Area, Ethnic,...
+Name: NAME OF DATA ELEMENT, dtype: object","2    academics
+Name: dev-category, dtype: object"
+12,PCIP31,0.027885407141546022,program_percentage.parks_recreation_fitness,"26    Percentage of degrees awarded in Parks, Recrea...
+Name: NAME OF DATA ELEMENT, dtype: object","26    academics
+Name: dev-category, dtype: object"
+13,PCIP49,0.01121405611518763,program_percentage.transportation,"36    Percentage of degrees awarded in Transportatio...
+Name: NAME OF DATA ELEMENT, dtype: object","36    academics
+Name: dev-category, dtype: object"
