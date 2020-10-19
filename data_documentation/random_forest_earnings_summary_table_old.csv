@@ -1,0 +1,46 @@
+,VARIABLE NAME,importance,developer-friendly-name,NAME OF DATA ELEMENT,dev-category
+0,WDRAW_ORIG_YR2_RT,0.2864336666123017,title_iv.withdrawn_by.2yrs,"108    Percent withdrawn from original institution wi...
+Name: NAME OF DATA ELEMENT, dtype: object","108    completion
+Name: dev-category, dtype: object"
+1,AVGFACSAL,0.15636885157097524,faculty_salary,"187    Average faculty salary
+Name: NAME OF DATA ELEMENT, dtype: object","187    school
+Name: dev-category, dtype: object"
+2,PCIP51,0.09167892115394465,program_percentage.health,"54    Percentage of degrees awarded in Health Profes...
+Name: NAME OF DATA ELEMENT, dtype: object","54    academics
+Name: dev-category, dtype: object"
+3,MARRIED,0.07973902558457195,demographics.married,"239    Share of married students
+Name: NAME OF DATA ELEMENT, dtype: object","239    student
+Name: dev-category, dtype: object"
+4,TUITFTE,0.072550285524861,tuition_revenue_per_fte,"203    Net tuition revenue per full-time equivalent s...
+Name: NAME OF DATA ELEMENT, dtype: object","203    school
+Name: dev-category, dtype: object"
+5,INC_PCT_H2,0.062031565771316834,share_highincome.110001plus,"209    Aided students with family incomes between $11...
+Name: NAME OF DATA ELEMENT, dtype: object","209    student
+Name: dev-category, dtype: object"
+6,PCIP14,0.04206322650756428,program_percentage.engineering,"50    Percentage of degrees awarded in Engineering.
+Name: NAME OF DATA ELEMENT, dtype: object","50    academics
+Name: dev-category, dtype: object"
+7,SATMT25,0.036364699438586605,sat_scores.25th_percentile.math,"78    25th percentile of SAT scores at the instituti...
+Name: NAME OF DATA ELEMENT, dtype: object","78    admissions
+Name: dev-category, dtype: object"
+8,INC_PCT_M1,0.03312664194086363,share_middleincome.30001_48000,"210    Aided students with family incomes between $30...
+Name: NAME OF DATA ELEMENT, dtype: object","210    student
+Name: dev-category, dtype: object"
+9,FTFTPCTFLOAN_POOLED_SUPP,0.03156359192009577,ftft_federal_loan_rate_pooled,"103    Percentage of full-time, first-time degree/cer...
+Name: NAME OF DATA ELEMENT, dtype: object","103    aid
+Name: dev-category, dtype: object"
+10,PCTFLOAN,0.026808279308542553,federal_loan_rate,"102    Percent of all undergraduate students receivin...
+Name: NAME OF DATA ELEMENT, dtype: object","102    aid
+Name: dev-category, dtype: object"
+11,DEP_COMP_ORIG_YR6_RT,0.02474352064703279,title_iv.depend.completed_by.6yrs,"107    Percent of dependent students who completed wi...
+Name: NAME OF DATA ELEMENT, dtype: object","107    completion
+Name: dev-category, dtype: object"
+12,PCIP26,0.02225758023508071,program_percentage.biological,"42    Percentage of degrees awarded in Biological An...
+Name: NAME OF DATA ELEMENT, dtype: object","42    academics
+Name: dev-category, dtype: object"
+13,CCSIZSET,0.01947756694629117,carnegie_size_setting,"189    Carnegie Classification -- size and setting
+Name: NAME OF DATA ELEMENT, dtype: object","189    school
+Name: dev-category, dtype: object"
+14,C150_4,0.01479257683797108,completion_rate_4yr_150nt,"105    Completion rate for first-time, full-time stud...
+Name: NAME OF DATA ELEMENT, dtype: object","105    completion
+Name: dev-category, dtype: object"
