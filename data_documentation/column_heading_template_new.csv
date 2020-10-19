@@ -414,3 +414,6 @@ student,Total share of enrollment of undergraduate students who are non-resident
 student,Total share of enrollment of undergraduate students who are white non-Hispanic,demographics.race_ethnicity.white_2000,float,UG_WHITENH
 student,Total share of enrollment of undergraduate students whose race is unknown,demographics.race_ethnicity.unknown_2000,float,UG_UNKN
 student,"Unemployment rate, via Census data",demographics.unemployment,float,UNEMP_RATE
+aid,Median loan debt of completers in monthly payments (10-year amortization plan),median_debt.completers.monthly_payments,float,GRAD_DEBT_MDN10YR
+,,,,OVERALL_YR6_N
+aid,The median debt for students who have completed,median_debt.completers.overall,float,GRAD_DEBT_MDN
