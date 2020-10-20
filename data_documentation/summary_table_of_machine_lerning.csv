@@ -1,17 +1,24 @@
-topic,model type,output
-earnings,Linear Regression,earnings_tuition.png
-earnings,Random Forest Regressor,random_forest_earnings_summary_table.csv
-earnings,Random Forest Regressor,random_forest_summary_earnings_tree.png
-earnings,Lasso Regression,lasso_income_predictor.png
-earnings,Elastic Net Regression,elastic_net_income_predictor.png
-major,Random Forest Regressor,random_forest_major_earnings_summary_table.csv
-major,Random Forest Regressor,random_forest_summary_college_major_tree.png
-major,Lasso Regression,lasso_major_income_predictor.png
-major,Elastic Net Regression,elastic_net_major_income_predictor.png
-debt,Random Forest Regressor,random_forest_debt_summary_table.csv
-debt,Random Forest Regressor,random_forest_summary_debt_tree.png
-debt,Lasso Regression,lasso_debt_predictor.png
-debt,Elastic Net Regression,elastic_net_debt_predictor.png
-forbes ranking,Random Forest Classifier,random_forest_summary_forbes_df.csv
-forbes ranking,Random Forest Classifier,random_forest_summary_forbes_best_tree.png
-forbes ranking,neural network,model.png
+Model name (*.ipynb),topic,model type,output
+earnings_analysis,earnings,Linear Regression,earnings_tuition.png
+earnings_analysis,earnings,Random Forest Regressor,random_forest_earnings_summary_table.csv
+earnings_analysis,earnings,Random Forest Regressor,random_forest_summary_earnings_tree.png
+earnings_analysis,earnings,Lasso Regression,lasso_income_predictor.png
+earnings_analysis,earnings,Lasso Regression,lasso_results_sorted_earnings_df.csv
+earnings_analysis,earnings,Elastic Net Regression,elastic_net_income_predictor.png
+earnings_analysis,earnings,Elastic Net Regression,elasticnet_results_sorted_earnings_df.csv
+college_majors_rev1,major,Random Forest Regressor,random_forest_major_earnings_summary_table.csv
+college_majors_rev1,major,Random Forest Regressor,random_forest_summary_college_major_tree.png
+college_majors_rev1,major,Lasso Regression,lasso_major_income_predictor.png
+college_majors_rev1,major,Lasso Regression,lasso_results_sorted_majors_df.csv
+college_majors_rev1,major,Elastic Net Regression,elastic_net_major_income_predictor.png
+college_majors_rev1,major,Elastic Net Regression,elasticnet_results_sorted_majors_df.csv
+debt_analysis,debt,Random Forest Regressor,random_forest_debt_summary_table.csv
+debt_analysis,debt,Random Forest Regressor,random_forest_summary_debt_tree.png
+debt_analysis,debt,Lasso Regression,lasso_debt_predictor.png
+debt_analysis,debt,Lasso Regression,lasso_results_sorted_debt_df.csv
+debt_analysis,debt,Elastic Net Regression,elastic_net_debt_predictor.png
+debt_analysis,debt,Elastic Net Regression,elasticnet_results_debt_df.csv
+school_rankings_forbes_rev_1,forbes ranking,Random Forest Classifier,random_forest_summary_forbes_df.csv
+school_rankings_forbes_rev_1,forbes ranking,Random Forest Classifier,random_forest_summary_forbes_best_tree.png
+nueral_network_ranking_197_columns,forbes ranking,neural network,model.png*
+,,,*one folder up.
