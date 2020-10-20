@@ -20,5 +20,7 @@ debt_analysis,debt,Elastic Net Regression,elastic_net_debt_predictor.png
 debt_analysis,debt,Elastic Net Regression,elasticnet_results_debt_df.csv
 school_rankings_forbes_rev_1,forbes ranking,Random Forest Classifier,random_forest_summary_forbes_df.csv
 school_rankings_forbes_rev_1,forbes ranking,Random Forest Classifier,random_forest_summary_forbes_best_tree.png
+school_rankings_forbes_rev_1,forbes ranking,Random Forest Classifier,school_ranking_confusion_matrix.png
+nueral_network_ranking_197_columns,forbes ranking,neural network,neural_network_school_ranking_confusion_matrix.png
 nueral_network_ranking_197_columns,forbes ranking,neural network,model.png*
 ,,,*one folder up.
